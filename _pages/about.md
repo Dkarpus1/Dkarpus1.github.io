@@ -12,54 +12,44 @@ HCPS Student
 
 Havre De Grace, MD | 443.619.5360 | daltonkarpus@gmail.com | daltonkarpus@student.hcps.org | 
 
- 
-
-​​Objective​ 
+​​Objective​:
 
 To obtain an apprenticeship position in one of the following categories: Data Science, Business or Financial Management and excel in one of these categories   
 
-Clubs & Extra Curricular  
+Clubs & Extra Curricular: 
 
-Cross Country Runner  
+- Cross Country Runner  
+- Track & Field Runner 
+- NHS Member ​​ 
 
-Track & Field Runner 
+References:
 
-NHS Member ​​ 
+- Robert, Scott: robertscott@hcps.org
 
-References 
 
-Robert,Scott: robertscott@hcps.org 
+​​Education​: 
 
-​​Education​ 
+Havre de Grace High School | AP Scholar| GPA: 4.562 
 
-Havre de Grace High School 
 
-AP Scholar   
-
-GPA: 4.562 
-
-Awards  
+Awards:  
 
 State Championship Runner  
 
 Regional Runner  
 
-AP Scholar		 
+AP Scholar	
 
-​​Soft Skills​ 
 
-​​Management​ 
+​​Soft Skills​:
 
-​​Problem solving​ 
+​​- Management​ 
+​​- Problem solving​ 
+​​- Communication​ 
+- ​​Leadership​  
 
-​​Communication​ 
+​​Hard Skills​:
 
-​​Leadership​  
-
-​​Hard Skills​ 
-
-Intermediate at Java  
-
-Experienced in SQL  
-
-Experience with using Microsoft Tools​​​​ 
+- Intermediate at Java  
+- Experienced in SQL  
+- Experience with using Microsoft Tools​​​​ 
