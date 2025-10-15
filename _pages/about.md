@@ -6,50 +6,64 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dalton Karpus 
+# Dalton Karpus
 
-HCPS Student   
+**HCPS Student**  
+Havre De Grace, MD  
+443.619.5360  
+[daltonkarpus@gmail.com](mailto:daltonkarpus@gmail.com)  
+[daltonkarpus@student.hcps.org](mailto:daltonkarpus@student.hcps.org)
 
-Havre De Grace, MD | 443.619.5360 | daltonkarpus@gmail.com | daltonkarpus@student.hcps.org | 
+---
 
-​​Objective​:
+## Objective
 
-To obtain an apprenticeship position in one of the following categories: Data Science, Business or Financial Management and excel in one of these categories   
+To obtain an apprenticeship position in one of the following categories: Data Science, Business, or Financial Management, and excel in one of these categories.
 
-Clubs & Extra Curricular: 
+---
+
+## Clubs & Extracurricular Activities
 
 - Cross Country Runner  
-- Track & Field Runner 
-- NHS Member ​​ 
+- Track & Field Runner  
+- National Honor Society (NHS) Member
 
-References:
+---
 
-- Robert, Scott: robertscott@hcps.org
+## Education
 
+**Havre de Grace High School**  
+- AP Scholar  
+- GPA: 4.562
 
-​​Education​: 
+---
 
-Havre de Grace High School | AP Scholar| GPA: 4.562 
+## Awards
 
+- State Championship Runner  
+- Regional Runner  
+- AP Scholar
 
-Awards:  
+---
 
-State Championship Runner  
+## Soft Skills
 
-Regional Runner  
+- Management  
+- Problem Solving  
+- Communication  
+- Leadership
 
-AP Scholar	
+---
 
+## Hard Skills
 
-​​Soft Skills​:
-
-​​- Management​ 
-​​- Problem solving​ 
-​​- Communication​ 
-- ​​Leadership​  
-
-​​Hard Skills​:
-
-- Intermediate at Java  
+- Intermediate in Java  
 - Experienced in SQL  
-- Experience with using Microsoft Tools​​​​ 
+- Proficient with Microsoft Tools
+
+---
+
+## References
+
+- **Robert, Scott**  
+  [robertscott@hcps.org](mailto:robertscott@hcps.org)
