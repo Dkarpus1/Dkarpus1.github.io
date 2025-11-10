@@ -67,8 +67,7 @@ To obtain an apprenticeship position in one of the following categories: Data Sc
 
 - **Robert, Scott**  
   [robertscott@hcps.org](mailto:robertscott@hcps.org)
-
-## Portfolio Project 
+ 
 ## Portfolio Project
 
 - Money manager that helps keep track of what you do with your money and finances.  
