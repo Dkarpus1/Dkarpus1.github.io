@@ -72,5 +72,5 @@ To obtain an apprenticeship position in one of the following categories: Data Sc
 ## Portfolio Project
 
 - Money manager that helps keep track of what you do with your money and finances.  
-  [View on GitHub](https://github.com/Dkarpus1/Money-Manager/tree/1064178eb826cbc5f672f9f2a0c98e14f1399ccc/expenseTracker)
+  [Money Manager](https://github.com/Dkarpus1/Money-Manager/tree/1064178eb826cbc5f672f9f2a0c98e14f1399ccc/expenseTracker)
 
